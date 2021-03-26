@@ -1,4 +1,4 @@
-# Generators
+# Fractal Generator
 
 This project prompts the user for input to create an active live background loading screen depicting multi-colored pipes on a black screen appearing and disappearing with randomized lengths and directions.
 
